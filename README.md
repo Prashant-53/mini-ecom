@@ -10,5 +10,3 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-hey now i want to add a login feature to the ecommerce platform but i don't want to restrict users from scrolling through products but i want to prompt to login/sign up if they want to add products to the cart help in setting the backend in mode.js+express.js with mongo db database
