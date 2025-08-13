@@ -67,7 +67,7 @@ export const products = [
     name: 'Kitchen Knife Set', 
     price: 149.99, 
     category: 'Home', 
-    image: 'https://images.unsplash.com/photo-1594736797933-d0c6e0501e2b?w=300&h=300&fit=crop', 
+    image: 'https://unsplash.com/photos/red-and-silver-kitchen-knife-vwI_eMs-2Ms', 
     rating: 4.8, 
     description: 'Professional kitchen knife set with wooden block' 
   }
